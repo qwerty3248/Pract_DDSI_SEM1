@@ -1,2 +1,6 @@
 # Pract_DDSI_SEM1
-EL seminario 1 de DDSI
+El seminario 1 de DDSI, consiste en la creacion de un programa sencillo que gestione una base de datos de un cliente 
+para tramitar pedidos, en este caso con interfaz gráfica.
+
+
+
